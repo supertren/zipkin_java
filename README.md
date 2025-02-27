@@ -1,4 +1,4 @@
-![zipkin_microservices_final](https://github.com/user-attachments/assets/6770365d-a7fb-46c7-ab35-8095280a9f1d)# Zipkin Tracing with Java Microservices
+# Zipkin Tracing with Java Microservices
 
 
 ![Uploading zipk<?xml version="1.0" encoding="UTF-8" standalone="no"?>

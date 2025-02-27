@@ -230,7 +230,7 @@ Open **[http://localhost:9411](http://localhost:9411)** and click **Find Traces*
 
 🚀 **Diagram**
 
-
+![vpc](https://github.com/supertren/zipkin_java/blob/main/zipkin_microservices_final.svg)
 
 
 
